@@ -34,6 +34,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MT-Bench](https://github.com/lm-sys/FastChat) – Multi-turn chat interaction benchmark.
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) – Automatic evaluation of instruction-following models.
 - [BKP-500](https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark) – Benchmark of 552 questions testing India-specific conventions (lakh/crore arithmetic, state land units, crop calendars, fiscal year, government schemes), graded deterministically. Released by Sthānika AI.
+- [hype or code](https://hypeorcode.com/) – Unscored side-by-side gallery that runs every new OpenRouter model on the same six prompts, one shot each, with time and cost per run.
 
 ## Reasoning & Math
 
